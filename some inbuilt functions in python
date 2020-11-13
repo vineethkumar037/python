@@ -1,0 +1,21 @@
+# abs()
+It will return the absolute(magnitude)of given number
+example:
+     1:x=122
+       print(abs(x))
+       output: 122
+     2:x=-122
+       print(abs(x))
+       output: 122
+     3:x=122.345
+       print(abs(x))
+       output:122.345
+#  input()	
+It will allow the user to give the input
+#pow(x,y)
+It will calculate the value of x to the power of y
+example: 
+      x=2
+      y=3
+      print(pow(x,y))
+      output: 8
