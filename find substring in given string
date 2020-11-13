@@ -1,0 +1,12 @@
+#to find a substring in given string
+print("Enter a string")
+x=input()
+print("enter string to find in first string")
+y=input()
+if(x.find(y)==-1):
+    print('no')
+else:
+                print('yes string found')
+
+print('string found at index')
+print(x.find(y))
